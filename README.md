@@ -1,2 +1,0 @@
-# ProMedik
-ProMedik App
